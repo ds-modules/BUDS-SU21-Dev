@@ -1,0 +1,38 @@
+﻿Country,Life Expectancy at Birth,Doctor Visits Per Capita,Out-of-pocket Healthcare Expenditure Per Capita,Government Expenditure Per Capita,Universal Health Care
+Australia,82.8,7.8,845.174,5187.419,y
+Austria,81.8,6.6,1017.128,5851.055,y
+Belgium,81.7,7.2,972.179,5427.957,y
+Canada,82.0,6.7,778.767,5418.383,y
+Chile,80.4,3.8,706.569,2159.354,y
+Colombia,77.1,1.9,177.326,1212.604,n
+Czech Republic,79.1,8.2,449.937,3426.039,y
+Denmark,81.0,3.8,728.795,5567.899,y
+Estonia,78.4,5.6,581.57,2578.793,n
+Finland,81.8,4.4,798.338,4578.42,y
+France,82.8,5.9,476.671,5375.699,y
+Germany,81.0,9.9,778.403,6645.757,y
+Greece,81.9,3.3,825.664,2383.628,y
+Hungary,76.2,10.7,578.133,2222.426,y
+Iceland,82.9,5.9,704.784,4811.424,y
+Ireland,82.3,5,593.515,5275.543,y
+Israel,82.9,6.2,597.29,2932.461,y
+Italy,83.4,6.8,820.531,3649.206,y
+Japan,84.2,12.6,574.244,4822.812,y
+Korea,82.7,16.9,1002.73,3384.158,n
+Latvia,74.9,6,727.364,1972.572,y
+Lithuania,75.8,9.9,754.704,2638.133,n
+Luxembourg,82.4,5.8,544.354,5558.322,y
+Mexico,75.0,2.8,474.254,1153.581,n
+Netherlands,81.9,9,587.062,5765.098,y
+New Zealand,81.8,3.8,519.638,4203.989,y
+Norway,82.8,4.5,899.384,6646.713,y
+Poland,77.7,7.6,431.625,2292.146,n
+Portugal,81.4,4.1,914.372,3378.627,y
+Slovak Republic,77.4,10.9,405.021,2353.645,n
+Slovenia,81.5,6.6,364.511,3224.02,y
+Spain,83.5,7.3,760.199,3616.459,y
+Sweden,82.6,2.7,748.529,5782.292,y
+Switzerland,83.8,4.3,2037.028,7732.412,y
+Turkey,78.3,9.5,214.019,1339.511,n
+United Kingdom,81.3,5,716.753,4653.058,y
+United States,78.7,4,1149.754,11071.715,n
